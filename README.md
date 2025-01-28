@@ -77,10 +77,7 @@ Como o **Quarkus 3.17.8 não suporta mais o H2 Console nativamente**, criei um *
 jdbc:h2:mem:pessoa
 ```
 📌 **Usuário:** `sa`  
-📌 **Senha:** `sa` 
-
-Caso queira verificar se o console está ativo via API:
-👉 [`http://localhost:8080/h2-console`](http://localhost:8080/h2-console)  
+📌 **Senha:** `sa`  
 
 ---
 
