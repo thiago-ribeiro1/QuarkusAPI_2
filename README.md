@@ -26,7 +26,7 @@ Antes de rodar o projeto, você precisará ter instalado:
 ### **2️⃣ Clonar o repositório**
 ```sh
 git clone https://github.com/thiago-ribeiro1/QuarkusAPI_2.git
-cd seu-repositorio
+cd QuarkusAPI_2
 ```
 
 ---
