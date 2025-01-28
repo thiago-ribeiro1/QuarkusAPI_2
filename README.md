@@ -60,6 +60,7 @@ quarkus.datasource.password=sa
 # Configuração do Hibernate ORM
 quarkus.hibernate-orm.database.generation=drop-and-create
 
+
 ```
 
 Isso garante que o **banco não seja perdido** durante a execução.
