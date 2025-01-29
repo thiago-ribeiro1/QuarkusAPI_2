@@ -6,7 +6,7 @@ Este projeto é uma API desenvolvida em **Quarkus 3.17.8**, utilizando **Java 17
 
 ## 📌 **Tecnologias Utilizadas**
 - [Quarkus 3.17.8](https://quarkus.io/)
-- [Java 17](https://adoptium.net/)
+- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [H2 Database](https://www.h2database.com/)
 - [Hibernate ORM](https://hibernate.org/orm/)
 - [Maven](https://maven.apache.org/)
@@ -40,7 +40,7 @@ mvn clean install
 
 ### **4️⃣ Rodar a aplicação**
 ```sh
-mvn quarkus:dev
+./mvnw quarkus:dev
 ```
 
 A API estará rodando em **http://localhost:8080** 🚀
